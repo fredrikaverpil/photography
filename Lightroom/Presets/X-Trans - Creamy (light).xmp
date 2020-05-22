@@ -1,0 +1,136 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="A48537AEF7BFE98C6A2B56709CEFEFDA"
+   crs:SupportsAmount="False"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="10.3"
+   crs:ProcessVersion="10.0"
+   crs:Saturation="-19"
+   crs:Sharpness="0"
+   crs:ShadowTint="0"
+   crs:RedHue="0"
+   crs:RedSaturation="0"
+   crs:GreenHue="0"
+   crs:GreenSaturation="0"
+   crs:BlueHue="0"
+   crs:BlueSaturation="0"
+   crs:Vibrance="+5"
+   crs:HueAdjustmentRed="+20"
+   crs:HueAdjustmentOrange="0"
+   crs:HueAdjustmentYellow="+12"
+   crs:HueAdjustmentGreen="+15"
+   crs:HueAdjustmentAqua="0"
+   crs:HueAdjustmentBlue="+5"
+   crs:HueAdjustmentPurple="+10"
+   crs:HueAdjustmentMagenta="+20"
+   crs:SaturationAdjustmentRed="-10"
+   crs:SaturationAdjustmentOrange="+2"
+   crs:SaturationAdjustmentYellow="-8"
+   crs:SaturationAdjustmentGreen="-55"
+   crs:SaturationAdjustmentAqua="-45"
+   crs:SaturationAdjustmentBlue="-10"
+   crs:SaturationAdjustmentPurple="-40"
+   crs:SaturationAdjustmentMagenta="-30"
+   crs:LuminanceAdjustmentRed="-5"
+   crs:LuminanceAdjustmentOrange="-12"
+   crs:LuminanceAdjustmentYellow="+15"
+   crs:LuminanceAdjustmentGreen="-10"
+   crs:LuminanceAdjustmentAqua="0"
+   crs:LuminanceAdjustmentBlue="-15"
+   crs:LuminanceAdjustmentPurple="0"
+   crs:LuminanceAdjustmentMagenta="0"
+   crs:ParametricShadows="-33"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="+24"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="10"
+   crs:ParametricMidtoneSplit="36"
+   crs:ParametricHighlightSplit="81"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="20"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="-10"
+   crs:PostCropVignetteMidpoint="50"
+   crs:PostCropVignetteFeather="50"
+   crs:PostCropVignetteRoundness="0"
+   crs:PostCropVignetteStyle="1"
+   crs:PostCropVignetteHighlightContrast="0"
+   crs:Highlights2012="-18"
+   crs:Shadows2012="+52"
+   crs:Whites2012="-22"
+   crs:Blacks2012="+45"
+   crs:ConvertToGrayscale="False"
+   crs:OverrideLookVignette="True"
+   crs:ToneCurveName2012="Custom"
+   crs:CameraProfile="Camera PROVIA/STANDARD"
+   crs:HasSettings="True">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">X-Trans - Creamy (light)</rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">User Presets</rdf:li>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 13</rdf:li>
+     <rdf:li>31, 25</rdf:li>
+     <rdf:li>71, 67</rdf:li>
+     <rdf:li>118, 131</rdf:li>
+     <rdf:li>181, 214</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:Look
+    crs:Name=""/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
