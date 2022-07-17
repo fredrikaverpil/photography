@@ -6,10 +6,10 @@
 
 Storage locations:
 
-| OS | Storage location |
-| --- | --- |
-| macOS | `~/Library/Application Support/com.fujifilm.denji/X RAW STUDIO` |
-| Windows | `%LOCALAPPDATA%\com.fujifilm.denji\X_ RAW_STUDIO` |
+| OS      | Storage location                                                |
+| ------- | --------------------------------------------------------------- |
+| macOS   | `~/Library/Application Support/com.fujifilm.denji/X RAW STUDIO` |
+| Windows | `%LOCALAPPDATA%\com.fujifilm.denji\X_ RAW_STUDIO`               |
 
 X RAW Studio profiles from other users and for other cameras:
 
@@ -18,8 +18,8 @@ X RAW Studio profiles from other users and for other cameras:
 Profiles are created either by me and sometimes based on "recipes" posted on blogs such as:
 
 - http://fujixweekly.com
-- https://www.f16.click
 - https://www.f16.click/blog/tips/fujifilm-jpeg-settings.html
+- https://www.f16.click/blog/best-fujifilm-jpeg-settings
 
 ## Lightroom
 
