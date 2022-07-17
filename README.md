@@ -2,7 +2,7 @@
 
 ## Fujifilm X RAW Studio
 
-[X RAW Studio](https://fujifilm-x.com/sv-se/support/download/software/x-raw-studio/) profiles for Fujifilm X-Trans cameras.
+[X RAW Studio](https://fujifilm-x.com/sv-se/support/download/software/x-raw-studio/) profiles.
 
 Storage locations:
 
@@ -11,7 +11,9 @@ Storage locations:
 | macOS | `~/Library/Application Support/com.fujifilm.denji/X RAW STUDIO` |
 | Windows | `%LOCALAPPDATA%\com.fujifilm.denji\X_ RAW_STUDIO` |
 
-These are either created by me or copied from blogs etc.
+X RAW Studio profiles from other users and for other cameras:
+
+- https://github.com/akirichev/fujifilm-recipes
 
 ## Lightroom
 
