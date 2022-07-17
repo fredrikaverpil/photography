@@ -15,6 +15,12 @@ X RAW Studio profiles from other users and for other cameras:
 
 - https://github.com/akirichev/fujifilm-recipes
 
+Profiles are created either by me and sometimes based on "recipes" posted on blogs such as:
+
+- http://fujixweekly.com
+- https://www.f16.click
+- https://www.f16.click/blog/tips/fujifilm-jpeg-settings.html
+
 ## Lightroom
 
 ### Presets
