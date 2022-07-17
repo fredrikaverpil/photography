@@ -11,7 +11,7 @@ Storage locations:
 | macOS | `~/Library/Application Support/com.fujifilm.denji/X RAW STUDIO` |
 | git diff | `%LOCALAPPDATA%\com.fujifilm.denji\X_ RAW_STUDIO` |
 
-
+These are either created by me or copied from blogs etc.
 
 ## Lightroom
 
