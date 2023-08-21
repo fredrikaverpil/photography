@@ -1,5 +1,26 @@
 # photography
 
+## Fujifilm X RAW Studio
+
+[X RAW Studio](https://fujifilm-x.com/sv-se/support/download/software/x-raw-studio/) profiles.
+
+Storage locations:
+
+| OS      | Storage location                                                |
+| ------- | --------------------------------------------------------------- |
+| macOS   | `~/Library/Application Support/com.fujifilm.denji/X RAW STUDIO` |
+| Windows | `%LOCALAPPDATA%\com.fujifilm.denji\X_ RAW_STUDIO`               |
+
+X RAW Studio profiles from other users and for other cameras:
+
+- https://github.com/akirichev/fujifilm-recipes
+
+Profiles are created either by me and sometimes based on "recipes" posted on blogs such as:
+
+- http://fujixweekly.com
+- https://www.f16.click/blog/tips/fujifilm-jpeg-settings.html
+- https://www.f16.click/blog/best-fujifilm-jpeg-settings
+
 ## Lightroom
 
 ### Presets
